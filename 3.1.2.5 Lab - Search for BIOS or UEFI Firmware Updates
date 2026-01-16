@@ -1,0 +1,13 @@
+Instructions Step 1: Boot your computer. During POST, BIOS information is displayed on the screen for a short period of time. Do not log on to Windows. Question: What key or combination of keys is used to run Setup on your computer? --BIOS Setup Key: F2
+
+Step 2: Restart your computer and enter Setup. The BIOS Setup Utility or UEFI screen appears. Questions: Who is the manufacturer of the BIOS? Which BIOS version is installed in your computer?
+
+--BIOS Manufacturer: American Megatrends International, LLC. --Installed BIOS Version: FB03 (16/05/2025) --BIOS Mode: UEFI --System Manufacturer: GIGABYTE --System Model: GIGABYTE GAMING A16 CTH
+
+Step 3: Search the Internet to find the most current version of BIOS for the motherboard. Caution: Do not update your BIOS at this time. Questions: What is the current BIOS version available for the motherboard? --FB04 (December 9, 2025)
+
+What features, if any, have been added to the new BIOS version? --The new BIOS version includes BIOS FB04 and EC F004, which improves system stability and hardware compatibility.
+
+What changes, if any, have been made to the new BIOS version to fix problems? --The BIOS update fixes potential system issues and improves overall system reliability and performance.
+
+What are the instructions to update the new BIOS version? --Download the BIOS update from the GIGABYTE support website, connect the laptop to AC power, run the BIOS update utility, and follow the on-screen instructions. Do not power off the system during the update process.
