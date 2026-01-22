@@ -1,1 +1,52 @@
+What happened with Folder1 and Folder2 on the Desktop?
+--Folder2 was moved inside Folder1 and is no longer visible directly on the Desktop
 
+What is the file extension for the text document?
+--.txt
+
+How would you do it? (Copy the text document to Folder2)
+--Right-click the file, select Copy, open Folder2, and select Paste
+
+What are the attributes associated with this file?
+--Size, file type, date created, date modified, and file location.
+
+What is the complete path to Folder3?
+--C:\Users\Vboxuser\Desktop\Folder1\Folder2\Folder3
+
+Which directories are listed under Quick access?
+--Desktop
+Downloads
+Documents
+Pictures
+
+What happened? Why would you want to do this?
+--folder1 was added to quick access, allowing quick access to the folder without navigating through directories
+
+What are folders listed in the Local Disk (C:)?
+--Program Files
+Program Files(x86)
+Users
+Windows
+
+Open the Users folder. List all the folders in the directory
+--Public
+Default
+YourUsername
+
+Were you able to open your user folder? Explain
+--yes, because I have permission to access my own user directory
+
+Were you able to open another user's folder? Explain
+--no, access is restricted due to user permissions
+
+Open the Public folder. List all the folders in the directory
+--public Documents,public downloads, public music, public pictures, public Videos
+
+Which folders are listed under the Libraries heading?
+--Documents
+Music
+Pictures
+Videos
+
+How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+--Open the library properties, select folder1, and click remove
