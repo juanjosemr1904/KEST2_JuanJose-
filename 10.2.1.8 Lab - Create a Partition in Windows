@@ -1,1 +1,20 @@
+File System (NEW VOLUME I:): -- FAT32
+Free Space: -- ~2 GB
+
+Tabs (FAT32 Volume):
+--General, Tools, Hardware, Sharing, Previous Versions, Customize
+
+Tabs (FAT32 File):
+--General, Details, Previous Versions
+
+File System after conversion: --NTFS
+
+New tabs added after NTFS:
+--Security, Quota
+
+Command without administrator:
+--The command fails due to lack of privileges.
+
+Reflection:
+--NTFS supports file permissions and access control, therefore the Security tab is available.
 
