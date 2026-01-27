@@ -31,7 +31,7 @@ Windows
 Open the Users folder. List all the folders in the directory
 --Public
 Default
-YourUsername
+vboxuser
 
 Were you able to open your user folder? Explain
 --yes, because I have permission to access my own user directory
