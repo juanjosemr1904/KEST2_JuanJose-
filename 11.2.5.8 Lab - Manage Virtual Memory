@@ -1,1 +1,17 @@
+ What is the current size of the virtual memory (paging file)?
+-- the current size of the virtual memory is 1408 mb 
+
+What Drive [Volume Label] contains the paging file?
+-- I: [ITE] and windows 
+
+What is the recommended paging file size for all drives?
+-- 1405 mb 
+
+What Drive [Volume Label] contains the paging file?
+-- ITE and Windows 
+
+Why would you ever change the default virtual memory page file settings in Windows?
+--Virtual memory settings may be changed to improve system performance, manage disk space more efficiently, or troubleshoot performance issues, especially on systems with limited RAM or multiple partition
+
+
 
