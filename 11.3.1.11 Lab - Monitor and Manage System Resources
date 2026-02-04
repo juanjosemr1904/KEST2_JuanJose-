@@ -1,1 +1,12 @@
+This lesson begins in part 2
+
+What message did you receive? How would you fix this?
+-- The system displays an error indicating that printing is unavailable because the Print Spooler service is not running. This can be fixed by restarting the Print Spooler service
+
+When DHCP Client stops, what other services will also be stopped?
+-- Stopping DHCP Client will also stop dependent networking services such as Network Location Awareness
+
+Why is it important to exercise care when managing services?
+-- Because stopping critical services can disrupt system functionality, network connectivity, or other dependent services
+
 
