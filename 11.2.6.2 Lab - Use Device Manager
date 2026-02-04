@@ -1,1 +1,18 @@
+What information is listed in the Device Manager window? Why would you use it?
+-- Device Manager lists all the hardware devices installed on your computer, their status, and their driver information, it is used to troubleshoot hardware problems, update drivers, enable or disable devices, and manage system hardware.
+
+Browse through the menus at the top of Device Manager. How would you install driver software for an older device that may not be automatically recognized?
+-- You must use the Action menu and select “Add Legacy Hardware” to manually install the driver software for an older device that Windows does not automatically recognize
+
+What additional information does Driver Details provide?
+-- Driver Details provides information about the driver files currently installed for the device, including file names, locations, and providers
+
+What two options do you have for updating the driver?
+-- The two options are to search automatically for updated driver software or to browse the computer for driver software
+
+What does the Roll Back Driver button do? Why might it be grayed out?
+-- The Roll Back Driver button restores the previous version of the driver. it maybe grayed out if the driver has never been updated or if no previous driver version is available
+
+What are the other available options?
+-- Update Driver, Disable Device, and Uninstall Device
 
