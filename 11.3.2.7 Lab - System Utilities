@@ -1,1 +1,28 @@
+What was the path you use to navigate to the Event Viewer?
+-- Computer management > system tools > event viewer
+
+What is the background picture?
+-- default backgroud windowns 
+
+What is the data value of the Background?
+-- 0. 0. 255.
+
+What is the data value of the Background? Compare the new value in the Registry to the value saved in
+BlueBKG.reg.
+-- 255. 0. 0.
+
+What is the data value of the Background?
+-- 0 0 255
+
+What is the color of the desktop?
+-- blue 
+
+What is the color of the desktop?
+-- blue
+
+Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
+-- It allows administrators to manage and troubleshoot multiple computers from a single console, improving efficiency and centralized management
+
+After restarting the computer, why was the desktop color changed
+-- Because the registry file was imported, restoring the previous background color settings, which are applied during system startup
 
