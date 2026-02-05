@@ -1,1 +1,49 @@
+Under System Summary, locate and list the following
+Processor:
+-- 13th Gen Intel(R) Core(TM) i7-13620H
+BIOS Version/Date:
+-- innotek Gmbh virtualbox 12/01/2006
+Total Physical Memory:
+-- 3.98 gb 
 
+DMA channels and the device using the resources
+-- channel 4 Direct memory access controller
+
+Network Adapter Name
+-- (000000000) intel(R) PRO/1000 MT desktop adapter 
+
+Network Adapter Type
+-- Ethernet 802.3
+
+Where would you find the applications that automatically load when the computer boots?
+-- In the Startup Programs section under Software Environment
+
+What are the startup options?
+-- normal startup, diagnostic startup, selective startup
+
+Can you enable and disable services at this tab?
+-- Yes, services can be enabled or disabled from this tab
+
+What can you do in this tab?
+-- You can launch various system tools such as Event Viewer, Command Prompt, Registry Editor, and System Information
+
+What does this tool report?
+-- It reports system information such as the operating system, processor, memory, DirectX version, and system model ç 
+
+What information is listed on this page?
+-- Information about the graphics adapter, display memory, driver details, and display settings
+
+What information is listed on this page?
+-- Information about sound devices, drivers, and audio settings
+
+What information is listed on this page?
+-- Information about input devices such as keyboard, mouse, and HID devices
+
+What information is listed on these extra tabs?
+--They provide additional hardware or driver information depending on the system configuration, such as network or input device detail
+
+Why would it be beneficial to turn off a service in the system configuration?
+-- Turning off unnecessary services can improve system performance, reduce resource usage, and increase security
+
+When would you use the startup tab of the system configuration tool?
+-- You would use the startup tab to manage programs that run when Windows starts, especially for troubleshooting slow boot times
