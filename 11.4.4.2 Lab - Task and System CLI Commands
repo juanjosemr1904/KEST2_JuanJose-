@@ -1,1 +1,34 @@
+What command would you use to display the results of tasklist one page at a time?
+-- tasklist | more
+
+What is the option to list the modules that are associated with a task?
+-- /M
+
+What command would you use if you want to find all the tasks that use the module oleaut32.dll?
+-- tasklist /M oleaut32.dll
+
+What command would you use to find out all the tasks that are associated with your username?
+-- tasklist /FI "username eq vboxuser"
+
+What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
+-- tasklist /FI "cputime gt 01:40:00"
+
+What command would you use if you wanted to terminate all process owned by a particular user?
+-- taskkill /FI "username eq vboxuser" /F
+
+What option would you use if you only wanted to scan the integrity of all the protected system files?
+-- /verifyonly
+
+What would you add to the command so you can view the output one page at a time?
+-- | more
+
+Enter the command to log off your computer
+-- shutdown /l
+
+What warning message did you see?
+-- A warning message indicating that Windows will shut down in 120 seconds
+
+What command would you use to abort the shutdown?
+-- shutdown /a
+
 
