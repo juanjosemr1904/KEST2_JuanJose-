@@ -1,1 +1,25 @@
+What is the option to fix errors on the drive?
+-- /F
+
+What is the option to force the volume to dismount first if necessary?
+-- /X
+
+What is the option to locate bad sectors and recover readable information?
+-- /R
+
+What happened? Explain.
+-- Chkdsk cannot run because the drive is in use. Windows schedules the disk check to run at the next system restart
+
+What is the file system of the drive?
+-- NTFS
+
+Enter list partition to list all the partitions on the disk. How many partitions are on the disk?
+-- 3 partitions
+
+What option is used to determine the maximum number of bytes that the volume can be shrink by?
+-- QUERYMAX
+
+What is the maximum number of reclaimable bytes?
+-- 500 MB
+
 
